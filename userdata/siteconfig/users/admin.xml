@@ -1,0 +1,17 @@
+<user>
+  <name>admin</name>
+  <password>MD5-encoded password</password>
+  <rights>
+    <admin>1</admin> <!-- Darf Themes ändern, Plugins installieren,... -->
+    <right>w</right> <!-- Darf überall schreiben und lesen (w impliziert r) -->
+    <right category="test">r</right> <!-- Ausnahmen: darf in test nicht schreiben -->
+    <right category="test2">d</right> <!-- Ausnahmen: darf in test2 nicht lesen -->
+  </rights>
+</user>
+
+<!--
+Rechte:
+w: schreiben + lesen
+r: lesen
+n: darf nicht lesen
+ -->

@@ -1,0 +1,1238 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="user_screen.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="559.78672"
+     inkscape:cy="641.18068"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1139"
+     inkscape:window-x="-2"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox-midpoints="false" />
+  <defs
+     id="defs4">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern32719"
+       id="pattern32724"
+       patternTransform="translate(678.65338,463.47211)" />
+    <linearGradient
+       id="linearGradient4059">
+      <stop
+         style="stop-color:#e9e9e9;stop-opacity:1;"
+         offset="0"
+         id="stop4061" />
+      <stop
+         id="stop4063"
+         offset="0.80368096"
+         style="stop-color:#d1d1d1;stop-opacity:1;" />
+      <stop
+         style="stop-color:#aeaeae;stop-opacity:1;"
+         offset="1"
+         id="stop4065" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3786">
+      <stop
+         id="stop3788"
+         offset="0"
+         style="stop-color:#0e4f86;stop-opacity:1;" />
+      <stop
+         id="stop3790"
+         offset="1"
+         style="stop-color:#7bafdb;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3780">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3782" />
+      <stop
+         style="stop-color:#272727;stop-opacity:1;"
+         offset="1"
+         id="stop3784" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3757">
+      <stop
+         id="stop3988"
+         offset="0"
+         style="stop-color:#f8f8f8;stop-opacity:1;" />
+      <stop
+         style="stop-color:#e3e3e3;stop-opacity:1;"
+         offset="0.80368096"
+         id="stop3990" />
+      <stop
+         id="stop3761"
+         offset="1"
+         style="stop-color:#c5c5c5;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4059-4">
+      <stop
+         style="stop-color:#e9e9e9;stop-opacity:1;"
+         offset="0"
+         id="stop4061-5" />
+      <stop
+         id="stop4063-1"
+         offset="0.80368096"
+         style="stop-color:#d1d1d1;stop-opacity:1;" />
+      <stop
+         style="stop-color:#aeaeae;stop-opacity:1;"
+         offset="1"
+         id="stop4065-0" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2257-2">
+      <stop
+         style="stop-color:#b4942a;stop-opacity:1;"
+         offset="0"
+         id="stop2259-6" />
+      <stop
+         style="stop-color:#e4dcc9;stop-opacity:1"
+         offset="1"
+         id="stop2261-71" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2598-5">
+      <stop
+         id="stop2600-5"
+         offset="0"
+         style="stop-color:#252525;stop-opacity:1;" />
+      <stop
+         style="stop-color:#252525;stop-opacity:1;"
+         offset="0.5"
+         id="stop2606-6" />
+      <stop
+         id="stop2608-9"
+         offset="0.75"
+         style="stop-color:#252525;stop-opacity:1;" />
+      <stop
+         id="stop2602-4"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3058-7">
+      <stop
+         id="stop3060-5"
+         offset="0"
+         style="stop-color:#9a7600;stop-opacity:1;" />
+      <stop
+         style="stop-color:#e3ad00;stop-opacity:1;"
+         offset="0.09292036"
+         id="stop3066-4" />
+      <stop
+         id="stop3070-3"
+         offset="0.5043171"
+         style="stop-color:#ffcd2c;stop-opacity:1;" />
+      <stop
+         id="stop3068-8"
+         offset="0.91571385"
+         style="stop-color:#e3ad00;stop-opacity:1;" />
+      <stop
+         id="stop3062-5"
+         offset="1"
+         style="stop-color:#b98d00;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3303-4">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.68345326;"
+         offset="0"
+         id="stop3305-3" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop3307-37" />
+    </linearGradient>
+    <radialGradient
+       id="XMLID_7_"
+       cx="102"
+       cy="112.3047"
+       r="139.5585"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         style="stop-color:#00537D"
+         id="stop16" />
+      <stop
+         offset="0.0151"
+         style="stop-color:#186389"
+         id="stop18" />
+      <stop
+         offset="0.0558"
+         style="stop-color:#558CA8"
+         id="stop20" />
+      <stop
+         offset="0.0964"
+         style="stop-color:#89AFC3"
+         id="stop22" />
+      <stop
+         offset="0.1357"
+         style="stop-color:#B3CCD8"
+         id="stop24" />
+      <stop
+         offset="0.1737"
+         style="stop-color:#D4E2E9"
+         id="stop26" />
+      <stop
+         offset="0.2099"
+         style="stop-color:#ECF2F5"
+         id="stop28" />
+      <stop
+         offset="0.2435"
+         style="stop-color:#FAFCFD"
+         id="stop30" />
+      <stop
+         offset="0.2722"
+         style="stop-color:#FFFFFF"
+         id="stop32" />
+    </radialGradient>
+    <linearGradient
+       id="linearGradient3225-7">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3227-5" />
+      <stop
+         style="stop-color:#aeaeae;stop-opacity:1;"
+         offset="1"
+         id="stop3229-8" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3207-8">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3209-1" />
+      <stop
+         style="stop-color:#252525;stop-opacity:0;"
+         offset="1"
+         id="stop3211-2" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2232-3">
+      <stop
+         style="stop-color:#b4942a;stop-opacity:1;"
+         offset="0"
+         id="stop2234-2" />
+      <stop
+         style="stop-color:#e4dcc9;stop-opacity:1"
+         offset="1"
+         id="stop2236-5" />
+    </linearGradient>
+    <linearGradient
+       id="XMLID_9_"
+       gradientUnits="userSpaceOnUse"
+       x1="94.343803"
+       y1="102.3447"
+       x2="86.535599"
+       y2="94.536598">
+      <stop
+         offset="0"
+         style="stop-color:#FFFFFF"
+         id="stop62" />
+      <stop
+         offset="1"
+         style="stop-color:#555753"
+         id="stop64" />
+    </linearGradient>
+    <linearGradient
+       id="XMLID_10_"
+       gradientUnits="userSpaceOnUse"
+       x1="95"
+       y1="103"
+       x2="86.586502"
+       y2="94.586502">
+      <stop
+         offset="0"
+         style="stop-color:#FFFFFF"
+         id="stop69" />
+      <stop
+         offset="1"
+         style="stop-color:#555753"
+         id="stop71" />
+    </linearGradient>
+    <linearGradient
+       id="XMLID_11_"
+       gradientUnits="userSpaceOnUse"
+       x1="95"
+       y1="103"
+       x2="87.292999"
+       y2="95.292999">
+      <stop
+         offset="0"
+         style="stop-color:#FFFFFF"
+         id="stop76" />
+      <stop
+         offset="1"
+         style="stop-color:#393B38"
+         id="stop78" />
+    </linearGradient>
+    <linearGradient
+       id="XMLID_12_"
+       gradientUnits="userSpaceOnUse"
+       x1="96"
+       y1="104"
+       x2="88.000198"
+       y2="96.000198">
+      <stop
+         offset="0"
+         style="stop-color:#888A85"
+         id="stop83" />
+      <stop
+         offset="0.0072"
+         style="stop-color:#8C8E89"
+         id="stop85" />
+      <stop
+         offset="0.0673"
+         style="stop-color:#ABACA9"
+         id="stop87" />
+      <stop
+         offset="0.1347"
+         style="stop-color:#C5C6C4"
+         id="stop89" />
+      <stop
+         offset="0.2115"
+         style="stop-color:#DBDBDA"
+         id="stop91" />
+      <stop
+         offset="0.3012"
+         style="stop-color:#EBEBEB"
+         id="stop93" />
+      <stop
+         offset="0.4122"
+         style="stop-color:#F7F7F6"
+         id="stop95" />
+      <stop
+         offset="0.5679"
+         style="stop-color:#FDFDFD"
+         id="stop97" />
+      <stop
+         offset="1"
+         style="stop-color:#FFFFFF"
+         id="stop99" />
+    </linearGradient>
+    <radialGradient
+       id="XMLID_8_"
+       cx="102"
+       cy="112.3047"
+       r="139.55859"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         style="stop-color:#535557"
+         id="stop37" />
+      <stop
+         offset="0.11366145"
+         style="stop-color:#898A8C"
+         id="stop41" />
+      <stop
+         offset="0.20296688"
+         style="stop-color:#ECECEC"
+         id="stop47" />
+      <stop
+         offset="0.2363"
+         style="stop-color:#FAFAFA"
+         id="stop49" />
+      <stop
+         offset="0.2722"
+         style="stop-color:#FFFFFF"
+         id="stop51" />
+      <stop
+         offset="0.5313"
+         style="stop-color:#FAFAFA"
+         id="stop53" />
+      <stop
+         offset="0.8449"
+         style="stop-color:#EBECEC"
+         id="stop55" />
+      <stop
+         offset="1"
+         style="stop-color:#E1E2E3"
+         id="stop57" />
+    </radialGradient>
+    <linearGradient
+       id="linearGradient3166">
+      <stop
+         id="stop3168"
+         offset="0"
+         style="stop-color:#e20800;stop-opacity:1" />
+      <stop
+         style="stop-color:#d80500;stop-opacity:1;"
+         offset="0.48148149"
+         id="stop3564" />
+      <stop
+         id="stop3170"
+         offset="1"
+         style="stop-color:#590000;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3225-14">
+      <stop
+         id="stop3227-7"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop3229-6"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3202">
+      <stop
+         id="stop3204-7"
+         offset="0"
+         style="stop-color:#cbff9c;stop-opacity:1;" />
+      <stop
+         id="stop3206-1"
+         offset="1"
+         style="stop-color:#65c171;stop-opacity:0" />
+    </linearGradient>
+    <radialGradient
+       id="XMLID_4_"
+       cx="48"
+       cy="-0.2148"
+       r="55.148"
+       gradientTransform="matrix(0.9792,0,0,0.9725,133.0002,20.8762)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         style="stop-color:#72D13D"
+         id="stop3082" />
+      <stop
+         offset="0.3553"
+         style="stop-color:#35AC1C"
+         id="stop3084" />
+      <stop
+         offset="0.6194"
+         style="stop-color:#0F9508"
+         id="stop3086" />
+      <stop
+         offset="0.7574"
+         style="stop-color:#008C00"
+         id="stop3088" />
+      <stop
+         offset="1"
+         style="stop-color:#007A00"
+         id="stop3090" />
+    </radialGradient>
+    <linearGradient
+       y2="0"
+       x2="28"
+       y1="57.5"
+       x1="28"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient5412">
+      <stop
+         id="stop5414"
+         style="stop-color:#fff14d;stop-opacity:1;"
+         offset="0" />
+      <stop
+         id="stop5416"
+         style="stop-color:#f8ffa0;stop-opacity:0;"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3207-9">
+      <stop
+         id="stop3209-17"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop3211-1"
+         offset="1"
+         style="stop-color:#252525;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3757"
+       id="linearGradient48962"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.5415632,0,0,1,155.5918,45.622007)"
+       x1="90.5"
+       y1="207.36218"
+       x2="90.5"
+       y2="282.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3786"
+       id="linearGradient48968"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-160.51324,132.80357)"
+       x1="90.0625"
+       y1="3.9871817"
+       x2="90.0625"
+       y2="53.987183" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3780"
+       id="linearGradient48970"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-160.51324,132.80357)"
+       x1="65.556488"
+       y1="3.9871817"
+       x2="65.556488"
+       y2="53.987183" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3786"
+       id="linearGradient48972"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-160.51324,132.80357)"
+       x1="65.556488"
+       y1="3.9871817"
+       x2="65.556488"
+       y2="53.987183" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3780"
+       id="linearGradient48974"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-160.51324,132.80357)"
+       x1="90.0625"
+       y1="3.9871817"
+       x2="90.0625"
+       y2="53.987183" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3786"
+       id="linearGradient53684"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-160.51324,132.80357)"
+       x1="65.556488"
+       y1="3.9871817"
+       x2="65.556488"
+       y2="53.987183" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3780"
+       id="linearGradient53686"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-160.51324,132.80357)"
+       x1="90.0625"
+       y1="3.9871817"
+       x2="90.0625"
+       y2="53.987183" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="1024"
+       height="768"
+       patternTransform="translate(-126.27171,132.36218)"
+       id="pattern9364">
+      <image
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="admin_screen.png"
+         y="0"
+         x="0"
+         id="image11313"
+         xlink:href="file:///tmp/inkscape-clipboard-import"
+         height="768"
+         width="1024" />
+    </pattern>
+    <filter
+       inkscape:collect="always"
+       id="filter10092">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.1929941"
+         id="feGaussianBlur10094" />
+    </filter>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="200"
+       height="150"
+       patternTransform="translate(678.65338,413.97464)"
+       id="pattern10157">
+      <image
+         width="200"
+         height="150"
+         xlink:href="file:///tmp/inkscape-clipboard-import"
+         id="image10154"
+         x="0"
+         y="0" />
+    </pattern>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3786"
+       id="linearGradient10200"
+       x1="-111.89764"
+       y1="357.18231"
+       x2="46.614143"
+       y2="357.18231"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.0173563,0,-10.19567)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4059-4"
+       id="linearGradient10204"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.79314707,0,94.948547)"
+       x1="46.614143"
+       y1="357.18231"
+       x2="-111.89764"
+       y2="357.18231" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="1024"
+       height="768"
+       patternTransform="translate(-126.27171,132.36218)"
+       id="pattern32703">
+      <image
+         width="1024"
+         height="768"
+         xlink:href="file:///home/orakeldel/Website/epilog/screendesigns_logo/ff.png"
+         id="image32700"
+         x="0"
+         y="0" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="200"
+       height="150"
+       patternTransform="translate(678.65338,413.97464)"
+       id="pattern32719">
+      <image
+         width="200"
+         height="150"
+         xlink:href="file:///home/orakeldel/Website/epilog/screendesigns_logo/baum.jpg"
+         id="image32716"
+         x="0"
+         y="0" />
+    </pattern>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3757"
+       id="linearGradient32730"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.5415632,0,0,0.29333333,155.5918,-935.18544)"
+       x1="90.5"
+       y1="-6.0235381"
+       x2="90.5"
+       y2="282.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4059"
+       id="linearGradient32766"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.13461538,0,0,0.29333333,380.49166,-935.18544)"
+       x1="90.5"
+       y1="-6.0235381"
+       x2="90.5"
+       y2="282.36218" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Ebene 1">
+    <rect
+       style="stroke:none;fill:url(#pattern32703);fill-opacity:1.0"
+       width="1024"
+       height="768"
+       x="-126.27171"
+       y="132.36218"
+       id="rect9367"
+       inkscape:export-filename="user_screen.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="273.64868"
+       x="-125.60722"
+       height="598.67102"
+       width="1022.671"
+       id="rect2985"
+       style="fill:#dbe7f1;fill-opacity:1;stroke:none;stroke-width:1.32898878999999992"
+       inkscape:export-filename="user_screen.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="252.98419"
+       x="-115.91511"
+       height="618.76514"
+       width="108.5467"
+       id="rect8590"
+       style="fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter10092)"
+       inkscape:export-filename="user_screen.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(1.4603095,0,0,0.97582667,57.374286,21.284065)" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="user_screen.png"
+       style="fill:#f5f5f5;fill-opacity:1;stroke:none"
+       id="rect8586"
+       width="158.51178"
+       height="598.88403"
+       x="-111.89764"
+       y="273.4903" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text2996"
+       y="38.362183"
+       x="65"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#c87137;fill-opacity:1;stroke:none;font-family:BlackChancery;-inkscape-font-specification:BlackChancery Thin"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Rawengulk;-inkscape-font-specification:Rawengulk;fill:#c87137;fill-opacity:1"
+         y="38.362183"
+         x="65"
+         id="tspan2998"
+         sodipodi:role="line" /></text>
+    <rect
+       y="252.98419"
+       x="-126.52171"
+       height="75"
+       width="1024.25"
+       id="rect2987"
+       style="fill:url(#linearGradient48962);fill-opacity:1;stroke:none"
+       inkscape:export-filename="user_screen.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3959"
+       y="315.18146"
+       x="69.494408"
+       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:BlackChancery;-inkscape-font-specification:BlackChancery Thin"
+       xml:space="preserve"
+       inkscape:export-filename="user_screen.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Rawengulk;-inkscape-font-specification:Rawengulk"
+         y="315.18146"
+         x="69.494408"
+         id="tspan3961"
+         sodipodi:role="line">Seitenname</tspan></text>
+    <g
+       transform="translate(38.788474,128.69343)"
+       id="g4024"
+       inkscape:export-filename="user_screen.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:url(#linearGradient48968);fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m -84.40625,136.78125 c 5.54,0 10,4.46 10,10 l 0,30 c 0,5.54 -4.46,10 -10,10 l 49.03125,0 c 5.54,0 10,-4.46 10,-10 l 0,-30 c 0,-5.54 -4.46,-10 -10,-10 l -49.03125,0 z"
+         id="rect3000" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:url(#linearGradient48970);fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m -105.51324,136.79076 21.112975,0 c 5.54,0 10,4.46 10,10 l 0,30 c 0,5.54 -4.46,10 -10,10 l -21.112975,0 c -5.54,0 -10,-4.46 -10,-10 l 0,-30 c 0,-5.54 4.46,-10 10,-10 z"
+         id="rect3002" />
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient48972);fill-opacity:1;stroke:none;font-family:BlackChancery;-inkscape-font-specification:BlackChancery Thin"
+         x="-115.51324"
+         y="171.16576"
+         id="text3784"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3786"
+           x="-115.51324"
+           y="171.16576"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:url(#linearGradient48972);fill-opacity:1;font-family:Rawengulk;-inkscape-font-specification:Rawengulk"
+           dx="0 -1.5909901">eπ</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text2992"
+         y="171.16576"
+         x="-75.513237"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient48974);fill-opacity:1;stroke:none;font-family:BlackChancery;-inkscape-font-specification:BlackChancery Thin"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:url(#linearGradient48974);fill-opacity:1;font-family:Rawengulk;-inkscape-font-specification:Rawengulk"
+           y="171.16576"
+           x="-75.513237"
+           id="tspan2994"
+           sodipodi:role="line">log</tspan></text>
+    </g>
+    <rect
+       transform="scale(1,-1)"
+       style="fill:#111111;fill-opacity:1;stroke:none"
+       id="rect4104"
+       width="1024.25"
+       height="1"
+       x="-126.52171"
+       y="-328.98419"
+       inkscape:export-filename="user_screen.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="338.74765"
+       x="-111.89764"
+       height="28.876675"
+       width="158.51178"
+       id="rect10192"
+       style="fill:url(#linearGradient10200);fill-opacity:1;stroke:none"
+       inkscape:export-filename="user_screen.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4112"
+       y="360.41727"
+       x="-96.994888"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:BlackChancery;-inkscape-font-specification:BlackChancery Thin"
+       xml:space="preserve"
+       inkscape:export-filename="user_screen.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Rawengulk;-inkscape-font-specification:Rawengulk"
+         y="360.41727"
+         x="-96.994888"
+         id="tspan4114"
+         sodipodi:role="line">Kategorie1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:62.78049469px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="97.720993"
+       y="76.208687"
+       id="text51030"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan51032"
+         x="97.720993"
+         y="76.208687">Standard User</tspan></text>
+    <path
+       style="fill:url(#pattern32703);stroke:none;fill-opacity:1.0"
+       d="m -126.27171,872.36218 1024,0 0,28 -1024,0 z"
+       id="rect10085"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="user_screen.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="user_screen.png"
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:BlackChancery;-inkscape-font-specification:BlackChancery Thin"
+       x="-96.994888"
+       y="410.41727"
+       id="text10096"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan10098"
+         x="-96.994888"
+         y="410.41727"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Rawengulk;-inkscape-font-specification:Rawengulk">Kategorie2</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text10100"
+       y="510.41724"
+       x="-96.994888"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:BlackChancery;-inkscape-font-specification:BlackChancery Thin"
+       xml:space="preserve"
+       inkscape:export-filename="user_screen.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Rawengulk;-inkscape-font-specification:Rawengulk"
+         y="510.41724"
+         x="-96.994888"
+         id="tspan10102"
+         sodipodi:role="line">Kategorie3</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="user_screen.png"
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:BlackChancery;-inkscape-font-specification:BlackChancery Thin"
+       x="-96.994888"
+       y="540.41724"
+       id="text10104"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan10106"
+         x="-96.994888"
+         y="540.41724"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Rawengulk;-inkscape-font-specification:Rawengulk">Kategorie4</tspan></text>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="user_screen.png"
+       style="fill:url(#linearGradient10204);fill-opacity:1;stroke:none"
+       id="rect10202"
+       width="158.51178"
+       height="22.512712"
+       x="-111.89764"
+       y="366.9903" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="user_screen.png"
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:BlackChancery;-inkscape-font-specification:BlackChancery Thin"
+       x="-86.994888"
+       y="382.41727"
+       id="text10108"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan10110"
+         x="-86.994888"
+         y="382.41727"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Rawengulk;-inkscape-font-specification:Rawengulk">Kategorie1.1</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text10112"
+       y="436.41727"
+       x="-86.994888"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:BlackChancery;-inkscape-font-specification:BlackChancery Thin"
+       xml:space="preserve"
+       inkscape:export-filename="user_screen.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Rawengulk;-inkscape-font-specification:Rawengulk"
+         y="436.41727"
+         x="-86.994888"
+         id="tspan10114"
+         sodipodi:role="line">Kategorie2.1</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="user_screen.png"
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:BlackChancery;-inkscape-font-specification:BlackChancery Thin"
+       x="-76.994888"
+       y="458.41727"
+       id="text10116"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan10118"
+         x="-76.994888"
+         y="458.41727"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Rawengulk;-inkscape-font-specification:Rawengulk">Kategorie2.1.1</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text10120"
+       y="484.41727"
+       x="-86.994888"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:BlackChancery;-inkscape-font-specification:BlackChancery Thin"
+       xml:space="preserve"
+       inkscape:export-filename="user_screen.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Rawengulk;-inkscape-font-specification:Rawengulk"
+         y="484.41727"
+         x="-86.994888"
+         id="tspan10122"
+         sodipodi:role="line">Kategorie2.2</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="user_screen.png"
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:BlackChancery;-inkscape-font-specification:BlackChancery Thin"
+       x="71.005112"
+       y="360.41727"
+       id="text10124"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan10126"
+         x="71.005112"
+         y="360.41727"
+         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Rawengulk;-inkscape-font-specification:Rawengulk">Kategorie1</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text10128"
+       y="400.41727"
+       x="71.005112"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:BlackChancery;-inkscape-font-specification:BlackChancery Thin"
+       xml:space="preserve"
+       inkscape:export-filename="user_screen.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Rawengulk;-inkscape-font-specification:Rawengulk"
+         y="400.41727"
+         x="71.005112"
+         id="tspan10130"
+         sodipodi:role="line">Whatever Eintrag</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot10136"
+       style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       inkscape:export-filename="user_screen.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion10138"><rect
+           id="rect10140"
+           width="589.01996"
+           height="134.35027"
+           x="70.710678"
+           y="411.01633" /></flowRegion><flowPara
+         id="flowPara10142"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Rawengulk;-inkscape-font-specification:Rawengulk"><flowSpan
+   style="text-align:justify;text-anchor:start"
+   id="flowSpan10144">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam a pulvinar augue. Quisque fermentum tempor erat eu convallis. Mauris vitae massa erat, ut congue tellus. Pellentesque hendrerit ultrices enim, nec aliquet </flowSpan>ligula ultricies ultricies. Cras non sem magna, ut mollis lectus. Pellentesque posuere eleifend velit, ut bibendum enim luctus interdum. Nulla ornare dignissim magna, et egestas nunc venenatis eu. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin blandit metus id urna adipiscing faucibus. Curabitur fringilla lorem nisl, vel fringilla felis. Fusce tristique sodales nulla. Vivamus id massa enim. Sed aliquet interdum lorem. Maecenas ut est ultricies massa ...</flowPara></flowRoot>    <rect
+       style="stroke:#1c5c91;fill:url(#pattern32719);stroke-opacity:1;stroke-width:2;fill-opacity:1.0"
+       width="200"
+       height="150"
+       x="678.65338"
+       y="413.97464"
+       id="rect10160"
+       inkscape:export-filename="user_screen.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="user_screen.png"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff6b06;fill-opacity:1;stroke:none;font-family:BlackChancery;-inkscape-font-specification:BlackChancery Thin"
+       x="71.005112"
+       y="542.41724"
+       id="text10162"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan10164"
+         x="71.005112"
+         y="542.41724"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff6b06;fill-opacity:1;font-family:Rawengulk;-inkscape-font-specification:Rawengulk">Weiterlesen...</tspan></text>
+    <path
+       style="fill:none;stroke:#ff6b06;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 139.30004,545.36662 -68.589362,0"
+       id="path10166"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="user_screen.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="user_screen.png"
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:BlackChancery;-inkscape-font-specification:BlackChancery Thin"
+       x="71.005112"
+       y="600.41724"
+       id="text10168"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan10170"
+         x="71.005112"
+         y="600.41724"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Rawengulk;-inkscape-font-specification:Rawengulk">Whatever Eintrag2</tspan></text>
+    <flowRoot
+       style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       id="flowRoot10172"
+       xml:space="preserve"
+       transform="translate(0,200)"
+       inkscape:export-filename="user_screen.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion10174"><rect
+           y="411.01633"
+           x="70.710678"
+           height="134.35027"
+           width="589.01996"
+           id="rect10176" /></flowRegion><flowPara
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Rawengulk;-inkscape-font-specification:Rawengulk"
+         id="flowPara10178"><flowSpan
+   id="flowSpan10180"
+   style="text-align:justify;text-anchor:start">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam a pulvinar augue. Quisque fermentum tempor erat eu convallis. Mauris vitae massa erat, ut congue tellus. Pellentesque hendrerit ultrices enim, nec aliquet </flowSpan>ligula ultricies ultricies. Cras non sem magna, ut mollis lectus. Pellentesque posuere eleifend velit, ut bibendum enim luctus interdum. Nulla ornare dignissim magna, et egestas nunc venenatis eu. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin blandit metus id urna adipiscing faucibus. Curabitur fringilla lorem nisl, vel fringilla felis. Fusce tristique sodales nulla. Vivamus id massa enim. Sed aliquet interdum lorem. Maecenas ut est ultricies massa ...</flowPara></flowRoot>    <rect
+       id="rect10182"
+       y="613.97461"
+       x="678.65338"
+       height="150"
+       width="200"
+       style="fill:url(#pattern32724);fill-opacity:1;stroke:#1c5c91;stroke-width:2;stroke-opacity:1"
+       inkscape:export-filename="user_screen.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text10184"
+       y="742.41724"
+       x="71.005112"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff6b06;fill-opacity:1;stroke:none;font-family:BlackChancery;-inkscape-font-specification:BlackChancery Thin"
+       xml:space="preserve"
+       inkscape:export-filename="user_screen.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff6b06;fill-opacity:1;font-family:Rawengulk;-inkscape-font-specification:Rawengulk"
+         y="742.41724"
+         x="71.005112"
+         id="tspan10186"
+         sodipodi:role="line">Weiterlesen...</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path10188"
+       d="m 139.30004,745.36662 -68.589362,0"
+       style="fill:none;stroke:#ff6b06;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="user_screen.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="user_screen.png"
+       style="fill:url(#linearGradient32730);fill-opacity:1;stroke:none"
+       id="rect32726"
+       width="1024.25"
+       height="22"
+       x="-126.52171"
+       y="-874.35919"
+       transform="scale(1,-1)" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="user_screen.png"
+       y="851.35919"
+       x="-126.52171"
+       height="1"
+       width="1024.25"
+       id="rect32728"
+       style="fill:#111111;fill-opacity:1;stroke:none" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="user_screen.png"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:BlackChancery;-inkscape-font-specification:BlackChancery Thin"
+       x="793.56763"
+       y="866.41724"
+       id="text32732"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan32734"
+         x="793.56763"
+         y="866.41724"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Rawengulk;-inkscape-font-specification:Rawengulk">Powered by</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text32736"
+       y="866.41724"
+       x="861.00513"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff6b06;fill-opacity:1;stroke:none;font-family:BlackChancery;-inkscape-font-specification:BlackChancery Thin"
+       xml:space="preserve"
+       inkscape:export-filename="user_screen.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff6b06;fill-opacity:1;font-family:Rawengulk;-inkscape-font-specification:Rawengulk"
+         y="866.41724"
+         x="861.00513"
+         id="tspan32738"
+         sodipodi:role="line">eπlog</tspan></text>
+    <rect
+       transform="scale(1,-1)"
+       y="-874.35919"
+       x="365.54938"
+       height="22"
+       width="54.25"
+       id="rect32764"
+       style="fill:url(#linearGradient32766);fill-opacity:1;stroke:none"
+       inkscape:export-filename="user_screen.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g32752"
+       transform="translate(59.288589,0)"
+       inkscape:export-filename="user_screen.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="admin_screen.png"
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:BlackChancery;-inkscape-font-specification:BlackChancery Thin"
+         x="233.56763"
+         y="866.41724"
+         id="text32740"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan32742"
+           x="233.56763"
+           y="866.41724"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Rawengulk;-inkscape-font-specification:Rawengulk">Impressum</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text32744"
+         y="866.41724"
+         x="311.56079"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:BlackChancery;-inkscape-font-specification:BlackChancery Thin"
+         xml:space="preserve"
+         inkscape:export-filename="admin_screen.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Rawengulk;-inkscape-font-specification:Rawengulk"
+           y="866.41724"
+           x="311.56079"
+           id="tspan32746"
+           sodipodi:role="line">Sitemap</tspan></text>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="admin_screen.png"
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:BlackChancery;-inkscape-font-specification:BlackChancery Thin"
+         x="375.56763"
+         y="866.41724"
+         id="text32748"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan32750"
+           x="375.56763"
+           y="866.41724"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Rawengulk;-inkscape-font-specification:Rawengulk">Kontakt</tspan></text>
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text32760"
+       y="866.41724"
+       x="-118.43237"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:BlackChancery;-inkscape-font-specification:BlackChancery Thin"
+       xml:space="preserve"
+       inkscape:export-filename="user_screen.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Rawengulk;-inkscape-font-specification:Rawengulk"
+         y="866.41724"
+         x="-118.43237"
+         id="tspan32762"
+         sodipodi:role="line">(c) 2011 orakeldel.net</tspan></text>
+  </g>
+</svg>

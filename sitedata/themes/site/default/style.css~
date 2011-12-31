@@ -1,0 +1,417 @@
+@font-face {
+ font-family: Sawasdee;
+ src: url("../data/JuraLight.eot") /* EOT file for IE */
+}
+@font-face {
+ font-family: Sawasdee;
+ src: url("../data/JuraLight.ttf") /* TTF file for CSS3 browsers */
+}
+
+
+body{
+  background-color:#1a1a1a;
+  font-family:Sawasdee, Arial, sans-serif;
+  color:#4d4d4d;
+}
+
+#main{
+  position:absolute;
+  top:0px;
+  margin-top:0px;
+  left:50%;
+  margin-left:-512px;
+}
+
+#header{
+  background-image: url('img/header.png');
+  height: 214px;
+  width:1024px;
+  text-align:center;
+  position: relative;
+}
+
+#innerheader{
+  width:500px;
+  position: absolute;
+  left:50%;
+  margin-left:-250px;
+  top:36px;
+}
+
+#logo{
+  background-image: url('img/logo.png');
+  background-repeat: no-repeat;
+  width: 346px;
+  height:107px;
+  position:relative;
+  left:50%;
+  margin-left:-173px;
+}
+
+#slogan{
+  font-size:14pt;
+  position:relative;
+  top:2px;
+}
+
+#content{
+  background-image: url('img/middle.png');
+  background-repeat: repeat-y;
+  min-height: 400px;
+  width:1024px;
+}
+
+#innercontent{
+  width:760px;
+  position: relative;
+  left:50%;
+  margin-left: -400px;
+  padding: 0px 20px;
+}
+
+#innercontent table{
+  width:600px;
+  position:relative;
+  margin: 0px auto;
+}
+
+
+#innercontent td{
+  width:200px;
+  text-align:center;
+  padding-bottom:30px;
+}
+
+#innercontent a{
+  color:#4d4d4d;
+}
+
+#innercontent a:hover{
+  color:#214478;
+}
+
+
+#innercontent td a{
+  text-decoration:none;
+  font-size:20pt;
+}
+
+#blender{
+  display:inline-block;
+  background-image:url("img/appicons/blender.png");
+  width:123px;
+  height:100px;
+  margin-bottom:10px;
+}
+
+#blender:hover{
+  background-image:url("img/appicons/blender_hl.png");
+}
+
+#inkscape{
+  display:inline-block;
+  background-image:url("img/appicons/inkscape.png");
+  width:102px;
+  height:100px;
+  margin-bottom:10px;
+}
+
+#inkscape:hover{
+  background-image:url("img/appicons/inkscape_hl.png");
+}
+
+#gimp{
+  display:inline-block;
+  background-image:url("img/appicons/gimp.png");
+  width:135px;
+  height:100px;
+  margin-bottom:10px;
+}
+
+#gimp:hover{
+  background-image:url("img/appicons/gimp_hl.png");
+}
+
+#alchemy{
+  display:inline-block;
+  background-image:url("img/appicons/alchemy.png");
+  width:105px;
+  height:100px;
+  margin-bottom:10px;
+}
+
+#alchemy:hover{
+  background-image:url("img/appicons/alchemy_hl.png");
+}
+
+#webdev{
+  display:inline-block;
+  background-image:url("img/appicons/webdev.png");
+  width:100px;
+  height:100px;
+  margin-bottom:10px;
+}
+
+#webdev:hover{
+  background-image:url("img/appicons/webdev_hl.png");
+}
+
+#fontforge{
+  display:inline-block;
+  background-image:url("img/appicons/fontforge.png");
+  width:106px;
+  height:100px;
+  margin-bottom:10px;
+}
+
+#fontforge:hover{
+  background-image:url("img/appicons/fontforge_hl.png");
+}
+
+#tutoriallink{
+  margin-left:20px;
+}
+
+#tutoriallink a{
+  background-repeat:no-repeat;
+  padding-left:45px;
+  padding-top:5px;
+  display:block;
+  height:32px;
+  font-size:14pt;
+  margin-top:3px;
+}
+
+#tutoriallink .blender{
+  background-image:url("img/appicons/small_blender.png");
+}
+
+#tutoriallink .blender:hover{
+  background-image:url("img/appicons/small_blender_hl.png");  
+}
+
+#tutoriallink .inkscape{
+  background-image:url("img/appicons/small_inkscape.png");
+}
+
+#tutoriallink .inkscape:hover{
+  background-image:url("img/appicons/small_inkscape_hl.png");  
+}
+
+#tutoriallink .gimp{
+  background-image:url("img/appicons/small_gimp.png");
+}
+
+#tutoriallink .gimp:hover{
+  background-image:url("img/appicons/small_gimp_hl.png");  
+}
+
+#tutoriallink .alchemy{
+  background-image:url("img/appicons/small_alchemy.png");
+}
+
+#tutoriallink .alchemy:hover{
+  background-image:url("img/appicons/small_alchemy_hl.png");  
+}
+
+#tutoriallink .webdev{
+  background-image:url("img/appicons/small_webdev.png");
+}
+
+#tutoriallink .webdev:hover{
+  background-image:url("img/appicons/small_webdev_hl.png");  
+}
+
+#tutoriallink .fontforge{
+  background-image:url("img/appicons/small_fontforge.png");
+}
+
+#tutoriallink .fontforge:hover{
+  background-image:url("img/appicons/small_fontforge_hl.png");  
+}
+
+#footer{
+  background-image: url('img/footer.png');
+  height: 34px;
+  width:784px;
+  padding:25px 120px
+}
+
+.blue{
+  color:#214478;  
+}
+
+h1{
+  font-size:18pt;  
+}
+
+h3{
+  font-size:16pt;  
+}
+
+h2{
+  font-size:14pt;  
+}
+
+h1, h2, h3{
+  text-decoration: underline;
+  text-transform: lowercase;
+  font-weight:normal;
+  margin-bottom:10px;
+  margin-top:10px;
+}
+
+.caption{
+  font-size:24pt;
+  position:relative;
+  top:-6px;
+}
+
+#brotkruemel{
+  position: absolute;
+  left:10px;
+  top:-10px;
+}
+
+.homekruemel{
+  display:inline-block;
+  background-image: url('img/appicons/small_home.png');
+  height: 23px;
+  width:30px;  
+}
+
+.homekruemel:hover{
+  background-image: url('img/appicons/small_home_hl.png');
+}
+
+.blenderkruemel{
+  display:inline-block;
+  background-image: url('img/appicons/small_blender.png');
+  height: 24px;
+  width:30px;  
+}
+
+.blenderkruemel:hover{
+  background-image: url('img/appicons/small_blender_hl.png');
+}
+
+.inkscapekruemel{
+  display:inline-block;
+  background-image: url('img/appicons/small_inkscape.png');
+  height: 29px;
+  width:30px;  
+  position:relative;
+  top:4px;
+}
+
+.inkscapekruemel:hover{
+  background-image: url('img/appicons/small_inkscape_hl.png');
+}
+
+.gimpkruemel{
+  display:inline-block;
+  background-image: url('img/appicons/small_gimp.png');
+  height: 23px;
+  width:30px;  
+}
+
+.gimpkruemel:hover{
+  background-image: url('img/appicons/small_gimp_hl.png');
+}
+
+.alchemykruemel{
+  display:inline-block;
+  background-image: url('img/appicons/small_alchemy.png');
+  height: 28px;
+  width:30px;  
+  position:relative;
+  top:3px;
+}
+
+.alchemykruemel:hover{
+  background-image: url('img/appicons/small_alchemy_hl.png');
+}
+
+.webdevkruemel{
+  display:inline-block;
+  background-image: url('img/appicons/small_webdev.png');
+  height: 30px;
+  width:30px; 
+  position:relative;
+  top:4px; 
+}
+
+.webdevkruemel:hover{
+  background-image: url('img/appicons/small_webdev_hl.png');
+}
+
+.fontforgekruemel{
+  display:inline-block;
+  background-image: url('img/appicons/small_fontforge.png');
+  height: 28px;
+  width:30px;  
+  position:relative;
+  top:3px;
+}
+
+.fontforgekruemel:hover{
+  background-image: url('img/appicons/small_fontforge_hl.png');
+}
+
+p{
+  padding: 5px;
+}
+
+ul{
+  padding:10px;  
+  padding-left:50px;
+}
+
+.hinweis{
+  background-color:#bdd2f2;
+  border:1px solid #79879c;
+  margin:10px; 
+}
+
+.sitelisting{
+  text-align:center;
+}
+
+.sitelisting_site{
+  margin:0px 2px;
+}
+
+.sitelisting_site_active{
+  margin:0px 2px;
+  color:#bf7e22;
+}
+
+.sitelisting_back{
+  margin:0px 2px;
+}
+
+.sitelisting_next{
+  margin:0px 2px;
+}
+
+.center{
+  text-align:center;  
+}
+
+.demoimage{
+  float:right;
+  margin-top:20px;  
+}
+
+.demoimageinbox{
+  float:right;
+  margin:3px;
+}
+
+.hoverbox{
+  position:absolute;
+  background-color:#bdd2f2;
+  border:1px solid #79879c;
+  display:none;
+  width:500px;
+}

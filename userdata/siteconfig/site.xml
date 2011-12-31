@@ -1,0 +1,20 @@
+<site>
+  <title>Orakeldel's Website'</title>
+  <url>orakeldel.net</url>
+  <description>Eine Beschreibung für meta-description</description>
+  <favicon>icon.png</favicon>
+  <theme>default</theme>
+  <admintheme>default</admintheme>
+  <language>de</language>
+  <rights>
+    <right>r</right> <!-- Darf überall lesen -->
+    <right category="test2">d</right> <!-- Ausnahmen: darf in test2 nicht lesen -->
+  </rights>
+</site>
+
+
+<!--
+Rechte:
+r: lesen
+n: darf nicht lesen
+ -->
